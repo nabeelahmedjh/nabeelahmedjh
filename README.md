@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Javascript, JQuery, Python, Flask, Nodejs**
+- 💬 Ask me about **C++, java, Javascript, JQuery, Python, Flask, Nodejs, and DSA**
 
 - 📫 How to reach me **abdulnabeel40@gmail.com**
 
