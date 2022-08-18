@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabeelahmedjh&label=Profile%20views&color=0e75b6&style=flat" alt="nabeelahmedjh" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Web dev (backend)**
 
-- 💬 Ask me about **C++, java, Javascript, JQuery, Python, Flask, Nodejs, and DSA**
+- 💬 Ask me about **C++, java, Javascript, Django, Python, Flask, Nodejs, and DSA**
 
 - 📫 How to reach me **abdulnabeel40@gmail.com**
 
