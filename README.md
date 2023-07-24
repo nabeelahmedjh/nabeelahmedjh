@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabeelahmedjh&label=Profile%20views&color=0e75b6&style=flat" alt="nabeelahmedjh" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Backend Development - Django**
 
-- 💬 Ask me about **problem solving, web development, python**
+- 💬 Ask me about **Backend development, Databases, Problem-solving, Python**
 
 - 📫 How to reach me **abdulnabeel40@gmail.com**
 
-- ⚡ Fun fact **I read book before sleeping.**
+- ⚡ Fun fact **Software Engineering is hard!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
