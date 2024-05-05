@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently working as **Software Engineer - Internee**
 
-- 💬 Ask me about **Backend development, Databases, Problem-solving, Python**
+- 💬 Ask me about **Backend development, Databases, Problem-solving, UML diagrams xD**
 
 - 📫 How to reach me **abdulnabeel40@gmail.com**
 
-- ⚡ Fun fact **Software Engineering is hard!**
+- ⚡ Fun fact **JS is a messy language, GOSH I LOVE IT!!!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
