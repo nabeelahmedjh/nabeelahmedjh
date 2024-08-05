@@ -3,13 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabeelahmedjh&label=Profile%20views&color=0e75b6&style=flat" alt="nabeelahmedjh" /> </p>
 
-- 🌱 I’m currently working as **Software Engineer - Internee**
+- 🌱 I’m currently working as **Junior Software Engineer**
 
-- 💬 Ask me about **Backend development, Databases, Problem-solving, UML diagrams xD**
+- 💬 Ask me about **Frontend, Backend, Databases, Problem-solving, UML diagrams**
 
-- 📫 How to reach me **abdulnabeel40@gmail.com**
+- 📫 How to reach me **<https://www.linkedin.com/in/nabeelahmedjh/>**
 
-- ⚡ Fun fact **JS is a messy language, GOSH I LOVE IT!!!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
