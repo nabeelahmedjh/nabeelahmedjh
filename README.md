@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as **Software Engineer**
 
-- 💬 Ask me about **Frontend, Backend, Databases, Problem-solving, UML diagrams**
+- 💬 Ask me about **System Architecture, Frontend, Backend, Databases, Problem-solving, UML diagrams :)**
 
 - 📫 How to reach me **<https://www.linkedin.com/in/nabeelahmedjh/>**
 
