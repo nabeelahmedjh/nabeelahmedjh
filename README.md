@@ -8,6 +8,10 @@
   <a href="mailto:nabeelahmedjh@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabeelahmedjh&color=blue" />
+</p>
+
 ---
 
 ## About Me
