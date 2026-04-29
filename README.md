@@ -46,7 +46,7 @@ I graduated as **Batch Topper & Gold Medalist** (CGPA 3.87/4.00) from COMSATS Un
 | [**Yurt**](https://github.com/nabeelahmedjh/yurt) | Real-time chat, video calls, collaborative whiteboarding + AI chatbot · **30% latency reduction** · 100+ active users | TypeScript, WebSockets, Docker |
 | **Past Papers Hub** | Academic resource platform · **80+ papers uploaded** · **25% increase in returning users** | REST APIs, Auth |
 | **Tegathon** | Event site for GDSC · **20% increase in event participation** vs previous editions | Web |
-| [**littlelemon-REST**](https://github.com/nabeelahmedjh/littlelemon-REST) | Production-ready restaurant ordering REST API | Python / Django |
+| [**littlelemon-REST**](https://github.com/nabeelahmedjh/littlelemon-REST) | Production-ready restaurant ordering system | Python / Django |
 
 ---
 
